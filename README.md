@@ -25,8 +25,6 @@ Aquí estarán algunos de mis proyectos favoritos (pronto los añadiré).
 
 ---
 
-Puedes modificar cualquier sección según tu estilo. ¿Te gustaría agregar algo más, como contribuciones open source o un portfolio? 🚀
-
 <!---
 NaD3M-71/NaD3M-71 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
