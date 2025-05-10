@@ -18,10 +18,10 @@
 - 🌐 Git, Docker, NGINX
 
 ## 💡 Proyectos destacados
-Aquí estarán algunos de mis proyectos favoritos (pronto los añadiré).
+Torneos TCG frontend https://github.com/OpenGateHub/torneos_tcg_ui, backend: https://github.com/OpenGateHub/torneos_tcg
+DevJobs: https://github.com/NaD3M-71/devJobs
+BienesRaices: https://github.com/NaD3M-71/bienesraices_node_mvc
 
-## 📌 Mis estadísticas en GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tuusuario&show_icons=true)
 
 ---
 
